@@ -7,7 +7,7 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*Experimental neurology*"
-tags: ["Animals", "Amyotrophic Lateral Sclerosis", "Humans", "Amino Acids- Branched-Chain", "Dietary Supplements", "Muscle Strength", "Resistance Training", "#nosource"]
+tags: ["Animals", "Amyotrophic Lateral Sclerosis", "Humans", "Amino Acids- Branched-Chain", "Dietary Supplements", "Muscle Strength", "Resistance Training", ""]
 url_pdf: "http://www.ncbi.nlm.nih.gov/pubmed/21167830"
 doi: "10.1016/j.expneurol.2010.12.007"
 ---
