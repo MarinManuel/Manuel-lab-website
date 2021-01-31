@@ -1,0 +1,14 @@
+---
+title: "Constitutive activity of 5-HT2C receptors is present after incomplete spinal cord injury but is not modified after chronic SSRI or baclofen treatment."
+date: 2017-11-01
+publishDate: 2021-01-31T14:17:13.459029Z
+authors: ["V M Tysseling", "D A Klein", "R Imhoff-Manuel", "M Manuel", "C J Heckman", "M C Tresch"]
+publication_types: ["2"]
+abstract: "After spinal cord injury (SCI), reflexes become hyperexcitable, leading to debilitating muscle spasms and compromised motor function. Previous work has described adaptations in spinal systems that might underlie this hyperexcitability, including an increase in constitutively active 5-HT2C receptors in spinal motoneurons. That work, however, examined adaptations following complete transection SCI, whereas SCI in humans is usually anatomically and functionally incomplete. We therefore evaluated whether constitutive activity of 5-HT2C receptors contributes to reflex hyperexcitability in an incomplete compression model of SCI and to spasms in vitro and in vivo. Our results confirm that 5-HT2C receptor constitutive activity contributes to reflex excitability after incomplete SCI. We also evaluated whether constitutive activity could be altered by manipulation of neural activity levels after SCI, testing the hypothesis that it reflects homeostatic processes acting to maintain spinal excitability. We decreased neural activity after SCI by administering baclofen and increased activity by administering the selective serotonin reuptake inhibitor (SSRI) fluoxetine. We found that drug administration produced minimal alterations in in vivo locomotor function or reflex excitability. Similarly, we found that neither baclofen nor fluoxetine altered the contribution of constitutively active 5-HT2C receptors to reflexes after SCI, although the contribution of 5-HT2C receptors to reflex activity was altered after SSRIs. These results confirm the importance of constitutive activity in 5-HT2C receptors to spinal hyperexcitability following SCI in the clinically relevant case of incomplete SCI but suggest that this activity is not driven by homeostatic processes that act to maintain overall levels of spinal excitability.NEW & NOTEWORTHY After spinal cord injury (SCI), most people will develop muscle spasms below their level of injury that can severely impact function. In this work, we examine the adaptations that occur within the spinal cord after SCI that contribute to these motor dysfunctions. We also evaluate one hypothesis about how these adaptations develop, which will potentially lead to intervention strategies to improve functional outcomes in persons with SCI."
+featured: false
+publication: "*Journal of neurophysiology*"
+tags: ["motoneuron", "serotonin", "spinal cord injury", "spasms", "motor recovery"]
+url_pdf: "http://www.ncbi.nlm.nih.gov/pubmed/28877964"
+doi: "10.1152/JN.00190.2017"
+---
+
