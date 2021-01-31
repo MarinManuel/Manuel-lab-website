@@ -5,7 +5,7 @@ widget: blank
 active: true
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 1
@@ -17,10 +17,9 @@ design:
   columns: "1"
   background:
     image: BeaupreFront.jpg
-    image_darken: 0
-    image_parallax: true
+    image_parallax: false
     image_position: center
-    image_size: 100%
+    image_size: cover
     text_color_light: false
   spacing:
     padding: ["100px", "0", "0", "0"]

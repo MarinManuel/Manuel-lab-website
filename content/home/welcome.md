@@ -12,14 +12,14 @@ hero_media: 393 - Large fluoro CB1 crop.jpg
 design:
   columns: "1"
   background:
-    image: 393 - Large fluoro CB1 crop.jpg
-    image_darken: 1.0
+    image: spinal_cord_display_lr.jpg
+    image_darken: 75%
     image_parallax: true
-    image_position: center
+    image_position: 50% -300px
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ["50px", "50px", "50px", "50px"]
+    padding: ["100px", "50px", "50px", "100px"]
 ---
 
 We are a research group in the [Department of Biomedical and Pharmaceutical Sciences](https://web.uri.edu/pharmacy/bps/) at the University of Rhode Island, College of Pharmacy.

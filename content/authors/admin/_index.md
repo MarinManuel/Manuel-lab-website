@@ -62,7 +62,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- People
+- Lab members
 ---
 
 Marin MANUEL is a researcher in the [Department of Biomedical and Pharmaceutical Sciences](https://web.uri.edu/pharmacy/bps/) at the University of Rhode Island, College of Pharmacy
