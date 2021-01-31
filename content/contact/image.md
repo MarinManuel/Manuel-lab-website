@@ -2,27 +2,28 @@
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 1
 
-title:
+title: 
 subtitle:
 
 design:
   columns: "1"
   background:
-    image: 393 - Large fluoro CB1.jpg
+    image: BeaupreFront.jpg
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: center
-    image_size: cover
-    text_color_light: true
+    image_size: 100%
+    text_color_light: false
   spacing:
-    padding: ["20px", "0", "20px", "0"]
+    padding: ["100px", "0", "0", "0"]
 advanced:
   css_class: fullscreen
 ---
