@@ -37,7 +37,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mmanuel@uri.edu'
+  link: 'mailto:mmanuel {at} uri {.} edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MarinManuelPhD
